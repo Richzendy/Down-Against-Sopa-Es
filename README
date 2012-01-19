@@ -1,0 +1,13 @@
+Plugin de wordpress modificado a partir del plugin http://wordpress.org/extend/plugins/sopa-blackout-plugin/
+
+Pero en castellano y con un mejor tema provisto por https://github.com/zachstronaut/stop-sopa y traducido al 
+Castellano creo que por http://www.anieto2k.com/ que fue de donde me fusile el código fuente del html.
+
+Instalar:
+
+1. Subir el directorio a la carpeta plugins de tu worpress (wp-content/plugins)
+2. Activar plugin
+3. Editar las preferencias y guardarlas (si no editas, igual tienes que guardar para que el plugin funcione)
+
+Enjoy :-)
+
